@@ -18,6 +18,10 @@
   - __Vue 3 To do List with Pinia__:
     - Repo: https://github.com/iamshaunjp/Pinia-with-Vue-3
     - Instruction: https://www.youtube.com/watch?v=u0B9dysw29A
+   
+  - __Weather App Build (Vue 3 & Tailwind)__:
+    - Repo: https://github.com/johnkomarnicki/net_ninja_vue_3_weather_app
+    - Instruction: https://www.youtube.com/watch?v=gUsBaB5ViAo&list=PL4cUxeGkcC9hfoy8vFQ5tbXO3vY0xhhUZ&index=1
 
       
 - Intermedidate projects:
@@ -27,7 +31,7 @@
    
   - __Peek-a-Vue Matching Game (By Ben Hong - a Vue core team member)__:
     - Repo: https://github.com/bencodezen/peek-a-vue
-    - Instruction: https://www.youtube.com/watch?v=WQa9-4K3me4)https://www.youtube.com/watch?v=WQa9-4K3me4
+    - Instruction: https://www.youtube.com/watch?v=WQa9-4K3me4
     - Demo: https://peek-a-vue.netlify.app/
    
   - __Create a Vue learning page with Nuxt 3__ (PAID):
@@ -37,5 +41,9 @@
   - __Learn Vue by Solving Vue-mini-challenges__ :
     - Repo: https://github.com/webfansplz/vuejs-challenges 
     - Web: https://vuejs-challenges.netlify.app/
-    
+
+  - __Vue 3 Composition API Realworld Example App__ :
+    - Repo: https://github.com/mutoe/vue3-realworld-example-app
+    - Demo: https://vue3-realworld-example-app-mutoe.vercel.app/
+    - Tech stack: TypeScript, Vite, Pinia
       
